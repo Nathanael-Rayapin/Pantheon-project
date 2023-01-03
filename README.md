@@ -18,8 +18,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Getting Started
 
 1 - Clone or Fork the project :
-[Cloner un dépôt](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) /
-[Forker un dépôt](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+[Clone a repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) /
+[Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 2 - Install all depencencies :
 ```
